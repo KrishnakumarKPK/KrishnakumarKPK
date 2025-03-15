@@ -1,6 +1,4 @@
-# Hi there, I'm [Your Name] 👋
-
-![Profile Banner](https://your-banner-image-url.com)
+# Hi there, I'm K Krishna Kumar 👋
 
 ## 🚀 About Me
 
